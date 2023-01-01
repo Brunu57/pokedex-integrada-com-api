@@ -1,0 +1,176 @@
+
+
+/*Cor da fonte dos status*/
+
+.normal span {
+    color: #82815d;
+}
+.fire span {
+    color: #bc6726;
+} 
+.water span {
+    color: #5074c3;
+}
+.electric span {
+    color: #c8a827;
+}
+.grass span {
+    color: #5a9638;
+}
+.ice span {
+    color: #7baca9;
+}
+.fighting span {
+    color: #93221f;
+}
+.poison span {
+    color: #7a2d78;
+}
+.ground span {
+    color: #ac9250;
+}
+.flying span {
+    color: #846fbf;
+}
+.psychic span {
+    color: #c44269;
+}
+.bug span {
+    color: #738012;
+}
+.rock span {
+    color: #87772a;
+}
+.ghost span {
+    color: #55416f;
+}
+.dragon span {
+    color: #522ab6;
+}
+.dark span {
+    color: #705746;
+}
+.steel span {
+    color: #B7B7CE;
+}
+.fairy span{
+    color: #ab6c8b;
+}
+
+
+/*Cor de fundo*/
+
+.normal {
+    background-color: #A8A77A;
+}
+.fire {
+    background-color: #EE8130;
+} 
+.water {
+    background-color: #6390F0;
+}
+.electric {
+    background-color: #F7D02C;
+}
+.grass {
+    background-color: #7AC74C;
+}
+.ice {
+    background-color: #96D9D6;
+}
+.fighting {
+    background-color: #C22E28;
+}
+.poison {
+    background-color: #A33EA1;
+}
+.ground {
+    background-color: #E2BF65;
+}
+.flying {
+    background-color: #A98FF3;
+}
+.psychic {
+    background-color: #F95587;
+}
+.bug {
+    background-color: #A6B91A;
+}
+.rock {
+    background-color: #B6A136;
+}
+.ghost {
+    background-color: #735797;
+}
+.dragon {
+    background-color: #6F35FC;
+}
+.dark {
+    background-color: #705746;
+}
+.steel {
+    background-color: #B7B7CE;
+}
+.fairy {
+    background-color: #D685AD;
+}
+
+
+
+
+/*Cor do fundo status*/
+
+.normal .moreDetails {
+    background-color: #c6c6a0;
+}
+.fire .moreDetails {
+    background-color: #f6974d;
+} 
+.water .moreDetails {
+    background-color: #85abff;
+}
+.electric .moreDetails {
+    background-color: #ffde5a;
+}
+.grass .moreDetails {
+    background-color: #82dc4d;
+}
+.ice .moreDetails {
+    background-color: #bdecea;
+}
+.fighting .moreDetails {
+    background-color: #db443f;
+}
+.poison .moreDetails {
+    background-color: #bb52b9;
+}
+.ground .moreDetails {
+    background-color: #f3d589;
+}
+.flying .moreDetails {
+    background-color: #c2adfa;
+}
+.psychic .moreDetails {
+    background-color: #fb6f99;
+}
+.bug .moreDetails {
+    background-color: #b3c52b;
+}
+.rock .moreDetails {
+    background-color: #c6b040;
+}
+.ghost .moreDetails {
+    background-color: #8b69b7;
+}
+.dragon .moreDetails {
+    background-color: #8250ff;
+}
+.dark .moreDetails {
+    background-color: #96745d;
+}
+.steel .moreDetails {
+    background-color: #c7c7e5;
+}
+.fairy .moreDetails {
+    background-color: #f093c2;
+}
